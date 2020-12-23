@@ -1,4 +1,4 @@
-namespace AulaPOOCelular.classes
+namespace POOCelular.classes
 {
     public class Alunos
     {
